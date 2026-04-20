@@ -25,7 +25,7 @@ Chesapeake High School Bands
     <p>Write a short description of your band here.</p>
   </section>
 
-  <section id="music">
+  <section id="ensembles">
     <h2>Music</h2>
     <p>Add Spotify embeds, videos, or album links here.</p>
   </section>
