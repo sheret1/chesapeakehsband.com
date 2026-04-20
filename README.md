@@ -33,6 +33,10 @@ Chesapeake High School Bands
     </ul>
   </section>
 
+<section id="resources">
+  <h2>Resources</h2>
+  <li><a href="handbook">Student Handbook</a>a></li>
+  
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:sheret1@marshall.edu">sheret1@marshall.edu</a></p>
