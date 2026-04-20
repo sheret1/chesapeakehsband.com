@@ -26,8 +26,9 @@ Chesapeake High School Bands
   </section>
 
   <section id="ensembles">
-    <h2>Music</h2>
-    <p>Add Spotify embeds, videos, or album links here.</p>
+    <h2>Ensembles</h2>
+    <p>Concert Band
+    Marching Band</p>
   </section>
 
   <section id="shows">
