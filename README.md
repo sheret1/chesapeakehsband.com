@@ -44,7 +44,7 @@ Chesapeake High School Bands
   </section>
 
   <footer>
-    <p>&copy; 2024 Your Band Name. All rights reserved.</p>
+    <p>&copy; 2026 Chesapeake High School Band. All rights reserved.</p>
   </footer>
 </body>
 </html>
