@@ -28,7 +28,7 @@ Chesapeake High School Bands
   <section id="ensembles">
     <h2>Ensembles</h2>
     <p>Concert Band
-    Marching Band</p>
+    <p>Marching Band</p>
   </section>
 
   <section id="shows">
@@ -43,6 +43,7 @@ Chesapeake High School Bands
     <h2>Contact</h2>
     <p>Email: <a href="mailto:sheret1@marshall.edu">sheret1@marshall.edu</a></p>
   </section>
+  <p>Phone Number: (304)700-7052</p>
 
   <footer>
     <p>&copy; 2026 Chesapeake High School Band. All rights reserved.</p>
