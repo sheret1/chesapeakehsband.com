@@ -16,7 +16,7 @@ Chesapeake High School Bands
 
   <section id="about">
     <h2>About</h2>
-    <p>Welcome to our website! Below you will find information about our band opportunities, upcoming performances, and helpful resources.</p>
+    <p>Welcome to our website! Chesapeake High School has been growing its band program since 2006 and we would love for you to join us on this journey. We committed to creating a dynamic learning space in which students can experiment, make mistakes, form bonds, take chances, have fun, and excel on an instrument. Below you will find information about our band opportunities, upcoming performances, conctact information, along with other helpful resources.</p>
   </section>
 
   <section id="ensembles">
