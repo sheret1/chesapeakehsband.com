@@ -16,7 +16,7 @@ Chesapeake High School Bands
 
   <section id="about">
     <h2>About</h2>
-    <p>Write a short description of your band here.</p>
+    <p>Welcome to our website! Below you will find information about our band opportunities, upcoming performances, and helpful resources.</p>
   </section>
 
   <section id="ensembles">
