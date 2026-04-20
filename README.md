@@ -48,7 +48,7 @@ Chesapeake High School Bands
     <h2>Contact</h2>
     <p>Email: <a href="mailto:sheret1@marshall.edu">sheret1@marshall.edu</a></p>
   </section>
-  <p>Phone Number: (304)700-7052</p>
+  <p>Phone Number: (304) 700-7052</p>
 
   <footer>
     <p>&copy; 2026 Chesapeake High School Band. All rights reserved.</p>
