@@ -35,7 +35,7 @@ Chesapeake High School Bands
 
 <section id="resources">
   <h2>Resources</h2>
-  <li><a href="handbook">Student Handbook</a>a></li>
+  <li><a href="handbook">Student Handbook</a>></li>
   
   <section id="contact">
     <h2>Contact</h2>
