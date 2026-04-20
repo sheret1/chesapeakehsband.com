@@ -40,7 +40,7 @@ Chesapeake High School Bands
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:sheret1@marshall.edu">yourband@email.com</a></p>
+    <p>Email: <a href="mailto:sheret1@marshall.edu">sheret1@marshall.edu</a></p>
   </section>
 
   <footer>
