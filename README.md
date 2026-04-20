@@ -12,13 +12,7 @@ Chesapeake High School Bands
     <h1>Your Band Name</h1>
     <nav>
       <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#music">Music</a></li>
-        <li><a href="#shows">Shows</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+        
 
   <section id="about">
     <h2>About</h2>
