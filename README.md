@@ -27,8 +27,8 @@ Chesapeake High School Bands
 
   <section id="ensembles">
     <h2>Ensembles</h2>
-    <p>Concert Band
-    <p>Marching Band</p>
+    <li><a href="#concertband">Concert Band</a></li>
+    <li><a href="#marchingband">Marching Band</a></li>
   </section>
 
   <section id="shows">
