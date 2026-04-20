@@ -26,10 +26,15 @@ Chesapeake High School Bands
   </section>
 
   <section id="shows">
-    <h2>Upcoming Shows</h2>
+    <h2>Shows/Competitions</h2>
     <ul>
-      <li>May 5 – The Roxy, LA</li>
-      <li>May 20 – The Fillmore, SF</li>
+      <li>September 17 - Marching Band Competition</li>
+      <li>November 9 - Marching Band State Competition</li>
+      <li>Novemeber 28 - Concert Band County Competition</li>
+      <li>December 20 - Concert Band Winter Concert</li>
+      <li>February 14 - Telegrams(Marching and Concert Bands)</li>
+      <li>April 15 Concert Band Spring Concert</li>
+      <li>May 5 – Concert Band State Band Competition</li>
     </ul>
   </section>
 
