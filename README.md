@@ -25,6 +25,12 @@ Chesapeake High School Bands
     <li><a href="#marchingband">Marching Band</a></li>
   </section>
 
+<section id="auditions">
+    <h2>Auditions</h2>
+    - Auditions times will be posted here when they are being held. 
+    - Email with your preferred audition time.
+    - Auditions held in the band room.
+  
   <section id="shows">
     <h2>Shows/Competitions</h2>
     <ul>
